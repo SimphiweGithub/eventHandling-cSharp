@@ -1,0 +1,7 @@
+C:\Users\yavin\source\repos\Event2\bin\Debug\Events2.exe.config
+C:\Users\yavin\source\repos\Event2\bin\Debug\Events2.exe
+C:\Users\yavin\source\repos\Event2\bin\Debug\Events2.pdb
+C:\Users\yavin\source\repos\Event2\obj\Debug\Events2.csproj.AssemblyReference.cache
+C:\Users\yavin\source\repos\Event2\obj\Debug\Events2.csproj.CoreCompileInputs.cache
+C:\Users\yavin\source\repos\Event2\obj\Debug\Events2.exe
+C:\Users\yavin\source\repos\Event2\obj\Debug\Events2.pdb

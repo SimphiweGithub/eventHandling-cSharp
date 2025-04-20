@@ -1,0 +1,7 @@
+C:\Users\yavin\source\repos\Events3\bin\Debug\Events3.exe.config
+C:\Users\yavin\source\repos\Events3\bin\Debug\Events3.exe
+C:\Users\yavin\source\repos\Events3\bin\Debug\Events3.pdb
+C:\Users\yavin\source\repos\Events3\obj\Debug\Events3.csproj.AssemblyReference.cache
+C:\Users\yavin\source\repos\Events3\obj\Debug\Events3.csproj.CoreCompileInputs.cache
+C:\Users\yavin\source\repos\Events3\obj\Debug\Events3.exe
+C:\Users\yavin\source\repos\Events3\obj\Debug\Events3.pdb

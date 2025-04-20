@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yavin\\source\\repos\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6613BC88-3D51-474F-9120-B9A2AD7FBE37}|..\\Events3\\Events3.csproj|c:\\users\\yavin\\source\\repos\\events3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226A9E1-6AAF-47BA-A56B-4042A2882AA6}|Events.csproj|c:\\users\\yavin\\source\\repos\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226A9E1-6AAF-47BA-A56B-4042A2882AA6}|Events.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2033AE29-2F06-431A-A12C-80FF5F42A0C9}|..\\Event2\\Event2.csproj|c:\\users\\yavin\\source\\repos\\event2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavin\\source\\repos\\Events3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Events3\\Program.cs",
+              "ToolTip": "C:\\Users\\yavin\\source\\repos\\Events3\\Program.cs",
+              "RelativeToolTip": "..\\Events3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:23:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavin\\source\\repos\\Event2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Event2\\Program.cs",
+              "ToolTip": "C:\\Users\\yavin\\source\\repos\\Event2\\Program.cs",
+              "RelativeToolTip": "..\\Event2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:03:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yavin\\source\\repos\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yavin\\source\\repos\\Events\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:37:19.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
